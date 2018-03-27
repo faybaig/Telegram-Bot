@@ -1,5 +1,5 @@
-[
-  "user":{
+{
+  "user": {
 "salutation":"MR",
 "first-name":"John",
 "last-name":"Smith",
@@ -9,4 +9,4 @@
 "login-name":"johnsmith1980",
 "password":"Johnny_1992"  
   }
-]
+}
