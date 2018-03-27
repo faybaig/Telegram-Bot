@@ -1,12 +1,7 @@
 {
-"user": {
-"salutation": "Mr",
-"first-name": "John",
-"last-name": "Smith",
-"birth-date": "1992-09-24",
-"mobile-number": "+491234567890",
-"email": "abc@def.co.de",
-"login-name": "johnsmith1980",
-"password": "Johnny_1992"
+"register-user-response":
+  { "login-name":"johnsmith1980",
+   "status":"ACTIVE",
+   "pan":"4123456789012345"
 }
 }
